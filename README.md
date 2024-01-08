@@ -1,2 +1,8 @@
 # swapfile-utility
-A User-friendly Linux swapfile management utility script.
+A user-friendly Linux swapfile management utility script.
+
+## Change permission and execute:
+```bash
+chmod +x swapfile-utility.sh
+sudo ./swapfile-utility.sh
+```
