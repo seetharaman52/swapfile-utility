@@ -22,7 +22,11 @@ This script simplifies the process of managing swapfiles on Linux systems. Wheth
 
 ### Running the Script
 
-1. Clone the repository:
+1. Clone the repository and do:
 
    ```bash
    git clone https://github.com/your-username/swapfile-utility.git
+   cd swapfile-utility
+   chmod +x swapfile-utility.sh
+   sudo ./swapfile-utility
+   ```
